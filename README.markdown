@@ -1,3 +1,7 @@
+[![linux](https://github.com/ryaminal/watchman/actions/workflows/getdeps_linux.yml/badge.svg?branch=main&event=release)](https://github.com/ryaminal/watchman/actions/workflows/getdeps_linux.yml)
+[![windows](https://github.com/ryaminal/watchman/actions/workflows/getdeps_windows.yml/badge.svg?branch=main&event=release)](https://github.com/ryaminal/watchman/actions/workflows/getdeps_windows.yml)
+[![mac](https://github.com/ryaminal/watchman/actions/workflows/getdeps_mac.yml/badge.svg?branch=main&event=release)](https://github.com/ryaminal/watchman/actions/workflows/getdeps_mac.yml)
+
 <div align="center">
  <img src="website/static/logo.png" width="20%" height="20%" alt="watchman-logo">
  <h1>Watchman</h1>
