@@ -137,7 +137,7 @@ $ # use the latest stable release
 $ git clone https://github.com/facebook/watchman.git -b {{ site.data.current_release.tag }} --depth 1
 $ cd watchman
 $ ./autogen.sh
-$ ./configure
+$ ./configure # this and the following two steps seem to be obsolete. as well as teh next section to configure stuff...
 $ make
 $ sudo make install
 ~~~
